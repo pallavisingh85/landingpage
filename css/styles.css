@@ -87,6 +87,10 @@ section {
     transition: ease 0.3s all;
 }
 
+.active {
+    background: #FF0;
+}
+
 /* Header Styles */
 .page__header {
     background: #fff;
